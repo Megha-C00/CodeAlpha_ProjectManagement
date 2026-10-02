@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #1f2937;
+}
+
+h2 {
+    color: #374151;
+}
+
+h3 {
+    color: #2563eb;
+}
+
+p {
+    color: #4b5563;
+}
+
+button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 11px 18px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+    transform: translateY(-1px);
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 25px 0;
+}
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+}
+h1 {
+    color: #1e3a8a;
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #374151;
+    margin-top: 25px;
+}
+body > p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #374151;
+}
+h3 {
+    color: #2563eb;
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+input[type="text"] {
+    padding: 10px;
+    width: 60%;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 14px;
+    margin-right: 8px;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #2563eb;
+}
+a[href="/logout/"] {
+    display: inline-block;
+    background-color: #ef4444;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+a[href="/logout/"]:hover {
+    background-color: #dc2626;
+}

@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/1WT24ISOO6/CodeApha_ProjectManagement
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[credential]
+	helper = 
+[lfs]
+	repositoryformatversion = 0
